@@ -1,3 +1,0 @@
-- Welcome to the Codex, the authoritative source for all of Project Empyrean's research.
-- If you are here to review our work, head on over to [[Project Empyrean]].
-- The Codex is provisionally implemented in [Logseq](https://logseq.com/). Be sure to familiarize yourself with it before collaborating.
